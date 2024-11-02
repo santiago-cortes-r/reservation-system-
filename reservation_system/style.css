@@ -1,0 +1,12 @@
+
+nav{
+    width: 50%;
+    margin: 0 auto;
+    
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
